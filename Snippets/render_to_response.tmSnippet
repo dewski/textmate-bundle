@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>render_to_response('${1:page.html}', ${2:{ 'user' : request.user }})</string>
+	<key>name</key>
+	<string>render_to_response</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>rtr</string>
+	<key>uuid</key>
+	<string>C55AF203-F571-463C-B526-012D8706657C</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Garrett Bjerkhoel’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>C55AF203-F571-463C-B526-012D8706657C</string>
+		<string>C51BFB0E-D9F3-4C95-A98B-0CB46A964501</string>
+		<string>74B09CA8-51BF-49C9-A408-6DED6643E1D0</string>
+		<string>187647AF-9CBD-47A5-925B-63841710DCF6</string>
+		<string>4AFEDFCC-7CA4-4A7D-BEEB-78AF15F24A38</string>
+		<string>957535B6-3C63-4FD9-B1F9-28C6731DD010</string>
+		<string>9FF76CA0-82D4-4862-B245-77E39A908362</string>
+		<string>93852934-BBE3-46E8-8B7D-5EBB6908EFD5</string>
+		<string>6F0DD642-EC48-4F8F-8E20-FFDABA9F7195</string>
+		<string>B95A3B08-0E0F-477F-9D70-4DF4D88DA9F0</string>
+		<string>5A856E62-0838-4F04-9899-7E4C24FDC275</string>
+		<string>DF4C829A-2211-499C-AF63-D1EB22273581</string>
+		<string>F94FCCA5-2570-41C2-A320-0801B635C291</string>
+		<string>5E97C1A0-BDCA-45F2-B230-FD8C3D259BE8</string>
+		<string>B236AF84-7D09-4ED5-BC76-5318ABA4C425</string>
+		<string>DF574B05-08D6-4FEC-ABAE-3D82832EFD0C</string>
+		<string>2698C883-BE5E-4F13-B83A-D8E053C9C8C6</string>
+	</array>
+	<key>uuid</key>
+	<string>9047FE8D-3F4D-468A-AD51-EC928953336D</string>
+</dict>
+</plist>
